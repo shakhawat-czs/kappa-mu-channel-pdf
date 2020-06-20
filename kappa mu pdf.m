@@ -1,4 +1,8 @@
+%%%%%%%%%%% Md Shakahwat Hossen %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%% pDF of Kappa mu fading channel %%%% %%%%%%%%%%%%%%%%%%%%%%%%
 
+clc;
+clear all;
 kappa=3.0000001; % values of fading parameters
 mu =3.50;
 N=10^6;
